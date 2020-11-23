@@ -1,0 +1,9 @@
+﻿SKU,Pie Type,Main Ingredient,Price,Vegetarian,Vegan,Meal Deal
+000001,Chicken Balti,Chicken,3.00,No,No,Yes
+000002,Chicken Tandori,Chicken,3.00,No,No,Yes
+000003,Chicken Hotpot,Chicken,4.00,No,No,Yes
+000004,Steak and Ale,Steak,4.50,No,No,No
+000005,Pork and Egg,Pork,3.50,No,No,No
+000006,Mushroom and Tarragon,Mushroom,2.75,Yes,No,Yes
+000007,Butternut Squash,Butternut Squash,4.25,Yes,Yes,Yes
+000008,"Turkey, Ham and Cranberry",Turkey,3.65,No,No,Yes
